@@ -2,7 +2,7 @@
 Configurações do arquivo Settings.json do Visual Studio Code:
 ---
 ```javascript
-[12:25, 05/01/2022] Pablo Lucas: {
+{
     "terminal.integrated.fontSize": 14,
     "workbench.iconTheme": "material-icon-theme",
     "explorer.compactFolders": false,
